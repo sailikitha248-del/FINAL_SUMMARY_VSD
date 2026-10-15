@@ -2043,4 +2043,3 @@ The ultimate objective is to understand not only how a digital circuit works, bu
 - [SkyWater PDK](https://github.com/google/skywater-pdk)
 - [Sky130 PDK Documentation](https://skywater-pdk.readthedocs.io/)
 
-**Documentation note:** Formulas are simplified where necessary to explain the underlying concepts. Real implementation results depend on timing constraints, cell libraries, process corners, tool versions, and physical design conditions. Always use the reports and documentation for the exact flow being executed.
